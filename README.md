@@ -4,6 +4,8 @@ FORTS (Futures &amp; Options on RTS) Info Indicator for Metatrader 5
 
 (русская версия ниже)
 
+![forts-info-image](https://f.cloud.github.com/assets/1477672/1868805/2f1dcc2c-7871-11e3-859f-084fb7a78979.png)
+
 What is it? Indicator for Metatrader 5 written with MQL5. This indicator displays the most important information for the current ticker:
 
 * Ticker name
