@@ -62,3 +62,20 @@ How to install
 * Перетащите индикатор из панели "Навигатор" на ваш график:
 
 ![romanpushkin-forts-info-add](https://f.cloud.github.com/assets/1477672/1900360/02d59504-7c50-11e3-8d17-ae27040c3ab7.gif)
+
+
+См.также
+--------
+
+* [RomanPushkin-Hourly-Grid] - рисует горизонтальные линии в начале каждого часа
+* [RomanPushkin-Daily-Grid] - рисует линии в начале каждого дня
+* [RomanPushkin-PriceGrid]- рисует горизонтальную сетку на основе округленных цен
+
+Лицензия
+--------
+
+MIT
+
+[RomanPushkin-Hourly-Grid]:https://github.com/ro31337/RomanPushkin-HourlyGrid
+[RomanPushkin-Daily-Grid]:https://github.com/ro31337/RomanPushkin-DailyGrid
+[RomanPushkin-PriceGrid]:https://github.com/ro31337/RomanPushkin-PriceGrid
