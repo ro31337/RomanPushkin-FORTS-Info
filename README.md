@@ -21,12 +21,17 @@ What is it? Indicator for Metatrader 5 written with MQL5. This indicator display
 * Session Sell Orders Volume
 * Time when information has been updated (current server time)
 
-Usage
-=====
+How to install
+--------------
 
-You can manually add this file with Metatrader or put it to Indicators folder:
+* Create a directory "RomanPushkin" on your hard drive at C:\Users\\__YOUR_USERNAME__\AppData\Roaming\MetaQuotes\Terminal\\__LONG_ID_HERE__\MQL5\Indicators\ 
 
-C:\Users\__YOUR_USER_NAME__\AppData\Roaming\MetaQuotes\Terminal\__LONG_ID_HERE__\MQL5\Indicators\RomanPushkin\
+* Copy indicator (RomanPushkin-FORTS-Info.mq5) to C:\Users\\__YOUR_USERNAME__\AppData\Roaming\MetaQuotes\Terminal\\__LONG_ID_HERE__\MQL5\Indicators\RomanPushkin\
+
+* Add indicator by dragging it from your Navigator panel:
+
+![romanpushkin-forts-info-add](https://f.cloud.github.com/assets/1477672/1900360/02d59504-7c50-11e3-8d17-ae27040c3ab7.gif)
+
 
 По-русски (Russian version)
 ===========================
@@ -49,9 +54,11 @@ C:\Users\__YOUR_USER_NAME__\AppData\Roaming\MetaQuotes\Terminal\__LONG_ID_HERE__
 * Время изменения информации (текущее время сервера)
 
 Установка
-=========
+---------
 
-Можно загружать индикатор в Metatrader 5 вручную, а можно добавить его в папку:
+* Создайте директорию "RomanPushkin" на вашем жестком диске C:\Users\\__ВАШЕ\_ИМЯ\_ПОЛЬЗОВАТЕЛЯ__\AppData\Roaming\MetaQuotes\Terminal\\__ДЛИННЫЙ_ИДЕНТИФИКАТОР__\MQL5\Indicators\ 
+* Скопируйте исходный код индикатора (файл RomanPushkin-FORTS-Info.mq5) в C:\Users\\__ВАШЕ\_ИМЯ\_ПОЛЬЗОВАТЕЛЯ__\AppData\Roaming\MetaQuotes\Terminal\\__ДЛИННЫЙ_ИДЕНТИФИКАТОР__\MQL5\Indicators\RomanPushkin\
 
-C:\Users\__YOUR_USER_NAME__\AppData\Roaming\MetaQuotes\Terminal\__LONG_ID_HERE__\MQL5\Indicators\RomanPushkin\
+* Перетащите индикатор из панели "Навигатор" на ваш график:
 
+![romanpushkin-forts-info-add](https://f.cloud.github.com/assets/1477672/1900360/02d59504-7c50-11e3-8d17-ae27040c3ab7.gif)
