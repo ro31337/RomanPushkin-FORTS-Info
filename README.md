@@ -33,6 +33,18 @@ How to install
 ![romanpushkin-forts-info-add](https://f.cloud.github.com/assets/1477672/1900360/02d59504-7c50-11e3-8d17-ae27040c3ab7.gif)
 
 
+See also
+---------
+
+* [RomanPushkin-Daily-Grid] - displays vertical line at the beginning of the day.
+* [RomanPushkin-PriceGrid] - draws horizontal lines for round price numbers.
+* [RomanPushkin-Hourly-Grid] - displays vertical lines at the beginning of each hour.
+
+License
+-------
+
+MIT
+
 По-русски (Russian version)
 ===========================
 
